@@ -1,5 +1,5 @@
-# 5011CEM_20-21
-Matlab code for 5011CEM 20/21
+# 5011CEM_21-22
+Matlab code for 5011CEM 21-22
 
 The repository contains the code files for 5011CEM delivered in semester 2, starting January 2022.
 
