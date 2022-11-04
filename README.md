@@ -7,13 +7,4 @@ Matlab code for 5011CEM 21-22
 
 The repository contains the code files for 5011CEM delivered in semester 2, starting January 2022.
 
-This module is delivered using flipped learning. This means that there are recorded 'lectures' providing the overview of the learning material. There are then tasks which shold be completed. This repository contains the Matlab code used for these tasks.
-The scheduled teaching slots with tutors are to be run as tutorial sessions. You should arrive at these sessions having completed your tasks as well as you can, and use these sessions for additional learning around the topics
-
-Each folder contains code for a separate task, numbered by teaching session.
-The folder 'Common Files' contains code that is common between sessions.
-The folder 'Model' is empty at this time. you will be provided with 3 data files separately to download and save to this location.
-
-It is recommended that you retain the folder structure, and add all the folders to your Matlab path. the easiest way to do this is to select the top levbel folder, right click and select 'add to path' -> selected folders and subfolders.
-"# Data_analyze" 
-"# Data_analyze" 
+With the advancement of technology and the development of society, more and more data are flooding our daily life. But most of the data is useless, such as the detection of electromagnetic information in space, most of the data is useless. In this regard, how to extract useful information from massive data is a common goal of mankind. With the implementation of new big data analysis technologies, the valuable data in big data will be better explored and mined. The project uses big data methods to analyse atmospheric science and climate model data provided by the European Centre for Medium-Range Weather Forecasts (ECMWF). However, after testing the technology applied on the client side, it took much longer than expected to analyze the data. In this report, I will show how to reduce the analysis time of massive data to an acceptable range (target efficiency: less than two hours of analysis per day, 25 hours of data, about 250MB of data) and according to customer requirements, code Analysis improvements.
