@@ -1,5 +1,9 @@
 # 5011CEM_21-22
 Matlab code for 5011CEM 21-22
+***according to GitHub limited, i can't upload the analyze origin file***
+***For more test detail, please read my report for this program***
+***If anyone want to get the origin analyze origin file, Please contact eason010914@gmail.com***
+
 
 The repository contains the code files for 5011CEM delivered in semester 2, starting January 2022.
 
